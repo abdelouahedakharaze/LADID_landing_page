@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LADID_landing_page/static/css/main.d3eeca58.css",
+    "main.js": "/LADID_landing_page/static/js/main.3ac48eed.js",
+    "static/js/453.5ee45780.chunk.js": "/LADID_landing_page/static/js/453.5ee45780.chunk.js",
+    "index.html": "/LADID_landing_page/index.html",
+    "main.d3eeca58.css.map": "/LADID_landing_page/static/css/main.d3eeca58.css.map",
+    "main.3ac48eed.js.map": "/LADID_landing_page/static/js/main.3ac48eed.js.map",
+    "453.5ee45780.chunk.js.map": "/LADID_landing_page/static/js/453.5ee45780.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3eeca58.css",
+    "static/js/main.3ac48eed.js"
+  ]
+}
